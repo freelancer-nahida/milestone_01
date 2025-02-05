@@ -1,0 +1,65 @@
+.header {
+
+    height: 300px;
+    background-color: bisque;
+
+    /* background-image: url('./download.png');*/
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-x; */
+    background-size: contain;
+    /* background-size: cover; */
+    /* background-size: auto; */
+    /* background-size: 200px; */
+    /* object-fit: cover; */
+    /* background-image: url('../download.png'); */
+    background-image: url('../img/images\ \(13\).jpg');
+}
+
+h3 {
+    font-size: 30px;
+    text-decoration: overline;
+}
+
+.second {
+    /* 
+    /* display: none; */
+
+    /* visibility: hidden; */
+}
+
+.blog {
+    width: 25%;
+    margin: 40px;
+    border: 5px solid salmon;
+    box-shadow: 10px 10px 20px blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.incident {
+    border: 2px solid purple;
+    margin: 20px;
+    /* display: inline-block; */
+
+    height: 200px;
+
+    display: block;
+    padding: 20px;
+
+}
+
+li {
+    display: inline;
+}
+
+
+/* inline css a  margin add hoy left and right and width add kora jay kintu hight add kora jay */
+.dolor {
+
+    border: 2px solid peru;
+    height: 60px;
+    margin: ;
+    /* display: block; */
+    display: inline-block;
+
+
+}
